@@ -1,7 +1,7 @@
-# Homelab Project
+# Ayub's Homelab Project
 Personal homelab built on Proxmox VE running Debian, Docker, Portainer, Immich, and Tailscale for remote management and self-hosted cloud services.
 
-# Homelab Project
+# Homelab
 
 This repository documents my personal homelab running on an HP Z440 workstation.
 
